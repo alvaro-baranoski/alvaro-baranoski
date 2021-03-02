@@ -6,7 +6,7 @@ I'm an electrical engineering undergraduate student at Universidade Federal do P
 
 ## Current Stack
 
-![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=comarialuiza&show_icons=true&layout=compact)
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=Alvin-dot&show_icons=true&layout=compact)
 
 <!--
 **Alvin-dot/Alvin-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
