@@ -2,6 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-jose-baranoski/)
 
+I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software developer. Currently learning about front-end development and looking for an intership opportunity.
+
+## Current Stack
+
+![Stats](https://github-readme-stats.vercel.app/api/top-langs?username=comarialuiza&show_icons=true&layout=compact)
 
 <!--
 **Alvin-dot/Alvin-dot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
