@@ -21,3 +21,4 @@ I'm an electrical engineering undergraduate student at Universidade Federal do P
 
 ## :computer: Some of my work:
 [Dashboard Welch](https://sirius.eletrica.ufpr.br/welch/index.php)
+[Dashboard Yule-Walker](https://sirius.eletrica.ufpr.br/yule-walker/index.php)
