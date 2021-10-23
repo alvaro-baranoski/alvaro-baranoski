@@ -20,5 +20,5 @@ I'm an electrical engineering undergraduate student at Universidade Federal do P
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
 ## :computer: Some of my work:
-[Dashboard Welch](https://sirius.eletrica.ufpr.br/welch/index.php)
-[Dashboard Yule-Walker](https://sirius.eletrica.ufpr.br/yule-walker/index.php)
+[Dashboard Welch](https://sirius.eletrica.ufpr.br/welch/index.php) <br>
+[Dashboard Yule-Walker](https://sirius.eletrica.ufpr.br/yulewalker/index.php)
