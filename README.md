@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-jose-baranoski/)
 
 
-I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software developer. I love solving problems and learning new things! Currently working as a mobile developer for [Instituto das Cidades Inteligentes](https://www.ici.curitiba.org.br/) and learning advanced JavaScript at Udemy.
+I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software developer. I love solving problems and learning new things! Currently working as a mobile developer for [Instituto das Cidades Inteligentes](https://www.ici.curitiba.org.br/).
 
 
 
