@@ -1,26 +1,26 @@
 ## Hello! My name is Álvaro 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-jose-baranoski/)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alvarojosebaranoski01@gmail.com)
 
 
 I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software architect. I love solving problems and learning new things! Currently working as a software developer for [Instituto das Cidades Inteligentes](https://www.ici.curitiba.org.br/).
 
 
+## :package: Tech Stack
 
-## :package: Tech Stack:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=Bootstrap&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=Angular&logoColor=white)
-![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=Ionic&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 
 ## :wrench: Tools
+![](https://img.shields.io/badge/git-ff4500?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/docker-0095ff?style=for-the-badge&logo=docker&logoColor=white)
+![](https://img.shields.io/badge/k8s-0077cc?style=for-the-badge&logo=kubernetes&logoColor=white)
+![](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 
-## Interests
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
+## :round_pushpin: Interests
+- :cloud: Cloud
+- :rocket: DevOps
+- :dart: Software Architecture
+- :construction_worker: Software Engineering
