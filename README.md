@@ -2,11 +2,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alvaro-jose-baranoski/)
 
 
-I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software developer. I love solving problems and learning new things! Currently working as a software developer for [Instituto das Cidades Inteligentes](https://www.ici.curitiba.org.br/).
+I'm an electrical engineering undergraduate student at Universidade Federal do Paraná and an aspiring software architect. I love solving problems and learning new things! Currently working as a software developer for [Instituto das Cidades Inteligentes](https://www.ici.curitiba.org.br/).
 
 
 
-## :package: Language and Tools:
+## :package: Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
@@ -19,6 +19,8 @@ I'm an electrical engineering undergraduate student at Universidade Federal do P
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
 
-## :computer: Some of my work:
-[Dashboard Welch](https://sirius.eletrica.ufpr.br/welch/index.php) <br>
-[Dashboard Yule-Walker](https://sirius.eletrica.ufpr.br/yulewalker/index.php)
+## :wrench: Tools
+
+## Interests
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zluvsand&layout=compact"/>
